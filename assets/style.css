@@ -125,3 +125,8 @@ nav img {
 nav a.left {
     float: left;
 }
+
+.footer-center {
+    text-align: center;
+    line-height: 1rem;
+}
